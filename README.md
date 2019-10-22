@@ -1,2 +1,10 @@
 # Capsule-Networks-Chinese-Tutorial
-NEUSE - Introduction to Machine Learning - Final Project (50%)
+
+机器学习导论-期末项目 (50%)
+
+依赖：
+
+- Python 3
+- Numpy
+- pandas
+- Jupyter Notebook
